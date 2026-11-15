@@ -1,0 +1,2 @@
+# Learningfor-Privacy-Preserving-Disease-Prediction
+Privacy preserving disease prediction  is a machine learning framework that enables that enables hospitals and edge devices to colloboratively train high accurac diagnostic models using federated learning and differential privacy , by sharing only model weights instead of raw patients data records , it ensures strict medical data while confidently
